@@ -1,7 +1,6 @@
-
+![Header](./your-header-image-name.png)
 ## Hello everyone 👋👋👋👋
 
-https://img.shields.io/badge/any_text-you_like-blue
 
 
 <!--
